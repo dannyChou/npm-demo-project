@@ -1,0 +1,19 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "Npm Learning",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dannyChou/npm-demo-project.git"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
