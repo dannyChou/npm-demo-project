@@ -8,7 +8,7 @@
     "url": "git@github.com:dannyChou/npm-demo-project.git"
   },
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {},
   "scripts": {
